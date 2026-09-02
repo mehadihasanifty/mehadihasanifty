@@ -1,4 +1,4 @@
-![logo] (https://github.com/mehadihasanifty/mehadihasanifty/blob/main/Gemini_Generated_Image_lbtcemlbtcemlbtc.jpg)
+![logo](https://github.com/mehadihasanifty/mehadihasanifty/blob/main/Gemini_Generated_Image_lbtcemlbtcemlbtc.jpg)
 <h1 align="center">Hi 👋, I'm Kazi Mehadi Hasan Ifty</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer | HTML • CSS • JavaScript • TypeScript | Building Modern, Responsive & User-Friendly Web Experiences</h3>
 
